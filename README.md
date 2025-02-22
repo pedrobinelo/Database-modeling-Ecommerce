@@ -37,6 +37,10 @@ Refine the presented model by adding the following points:
 - The customer can register more than one payment method.
 - Delivery has status and tracking code.
 
+## ✅ Solution
+
+<img align="center" src="https://github.com/pedrobinelo/Database-modeling-Ecommerce/blob/main/ecommerce.png" width=""/> 
+
 ## 💻 Technologies 
 
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-ffffff?style=for-the-badge&logo=mysql&logoColor=black)
